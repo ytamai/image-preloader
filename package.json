@@ -1,0 +1,38 @@
+{
+  "name": "image-preloader",
+  "version": "0.0.1",
+  "description": "preload images",
+  "main": "image-preloader.js",
+  "scripts": {
+    "test": "testem"
+  },
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/ytamai/image-preloader.git"
+  },
+  "keywords": [
+    "images",
+    "preloading",
+    "javascript"
+  ],
+  "author": "ytamai",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/ytamai/image-preloader/issues"
+  },
+  "homepage": "https://github.com/ytamai/image-preloader",
+  "devDependencies": {
+    "browser-sync": "^2.6.4",
+    "browserify": "^10.0.0",
+    "gulp": "^3.8.11",
+    "gulp-cached": "^1.0.4",
+    "gulp-concat": "^2.5.2",
+    "gulp-if": "^1.2.5",
+    "gulp-jshint": "^1.10.0",
+    "gulp-notify": "^2.2.0",
+    "gulp-plumber": "^1.0.0",
+    "gulp-rename": "^1.2.2",
+    "jshint-stylish": "^1.0.1",
+    "run-sequence": "^1.0.2"
+  }
+}

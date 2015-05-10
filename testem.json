@@ -1,0 +1,11 @@
+{
+  "framework" : [
+    "jasmine"
+  ],
+  "launch_in_dev" : [
+    "PhantomJS"
+  ],
+  "src_files" : [
+    "src/**/*.js"
+  ]
+}
